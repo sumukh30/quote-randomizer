@@ -1,0 +1,28 @@
+*{
+	font-family: sans-serif;
+}
+body{
+	background: #EEE;
+	clear: both;
+}
+#cont{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#head{
+	text-align: center;
+}
+#cont{
+	padding: 1px;
+}
+#navbar{
+	width: 160px;
+	float: left;
+}
+#num{
+	width: 600px;
+	float: right;
+
+}

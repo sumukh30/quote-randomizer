@@ -1,0 +1,17 @@
+body{
+	background-color: gray;
+	background-position: center;
+	background-size: cover;
+}
+
+#cont{
+	padding: 2px;
+	height: 200px;
+	width: 400px;
+	position: absolute;
+	margin-left: 48%;
+	text-align: center;
+	background-color: white;
+	border:3px solid black;
+	border-radius: 10px;
+}
